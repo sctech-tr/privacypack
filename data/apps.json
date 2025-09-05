@@ -33,6 +33,7 @@
                 { "id": "immich", "name": "Immich" },
                 { "id": "nextcloud_memories", "name": "Nextcloud Memories" },
                 { "id": "zeitkapsl", "name": "zeitkapsl" }
+                { "id": "photoprism", "name": "PhotoPrism" }
             ]
         },
         {
@@ -48,7 +49,8 @@
                 { "id": "duckduckgo", "name": "DuckDuckGo" },
                 { "id": "startpage", "name": "Startpage" },
                 { "id": "searxng", "name": "SearXNG" },
-                { "id": "mojeek", "name": "Mojeek" }
+                { "id": "mojeek", "name": "Mojeek" },
+                { "id": "ecosia", "name": "Ecosia" }
             ]
         },
         {
@@ -136,7 +138,8 @@
                 { "id": "filen", "name": "Filen" },
                 { "id": "fileverse", "name": "Fileverse" },
                 { "id": "jottacloud", "name": "Jottacloud" },
-                { "id": "cryptomator", "name": "Cryptomator" }
+                { "id": "cryptomator", "name": "Cryptomator" },
+                { "id": "syncthing", "name": "Syncthing" }
             ]
         },
         {
