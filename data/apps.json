@@ -279,7 +279,8 @@
             "order": 16,
             "mainstream_apps": [
                 { "id": "google_translate", "name": "Google Translate" },
-                { "id": "apple_translate", "name": "Apple Translate" }
+                { "id": "apple_translate", "name": "Apple Translate" },
+                { "id": "deepl", "name": "DeepL" }
             ],
             "private_alternatives": [
                 { "id": "libretranslate", "name": "LibreTranslate" },
