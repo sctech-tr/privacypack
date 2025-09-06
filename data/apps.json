@@ -32,7 +32,7 @@
                 { "id": "proton_drive", "name": "Proton Drive" },
                 { "id": "immich", "name": "Immich" },
                 { "id": "nextcloud_memories", "name": "Nextcloud Memories" },
-                { "id": "zeitkapsl", "name": "zeitkapsl" }
+                { "id": "zeitkapsl", "name": "zeitkapsl" },
                 { "id": "photoprism", "name": "PhotoPrism" }
             ]
         },
@@ -49,8 +49,7 @@
                 { "id": "duckduckgo", "name": "DuckDuckGo" },
                 { "id": "startpage", "name": "Startpage" },
                 { "id": "searxng", "name": "SearXNG" },
-                { "id": "mojeek", "name": "Mojeek" },
-                { "id": "ecosia", "name": "Ecosia" }
+                { "id": "mojeek", "name": "Mojeek" }
             ]
         },
         {
