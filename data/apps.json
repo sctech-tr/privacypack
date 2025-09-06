@@ -286,7 +286,8 @@
                 { "id": "libretranslate", "name": "LibreTranslate" },
                 { "id": "translatelocally", "name": "TranslateLocally" },
                 { "id": "apertium", "name": "Apertium" },
-                { "id": "mozilla_translate", "name": "Mozilla Translate" }
+                { "id": "mozilla_translate", "name": "Mozilla Translate" },
+                { "id": "kagi_translate", "name": "Kagi Translate" }
     
             ]
         },
