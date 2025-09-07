@@ -179,6 +179,7 @@
                 { "id": "proton_auth", "name": "Proton Auth" },
                 { "id": "bitwarden_auth", "name": "Bitwarden Auth" },
                 { "id": "yubico_auth", "name": "Yubico Authenticator" },
+                { "id": "1password", "name": "1Password" },
                 { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
