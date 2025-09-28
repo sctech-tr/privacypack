@@ -16,7 +16,8 @@
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
                 { "id": "migadu", "name": "Migadu" },
-		        { "id": "startmail", "name": "StartMail" }
+		            { "id": "startmail", "name": "StartMail" },
+                { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
         {
@@ -33,7 +34,9 @@
                 { "id": "proton_drive", "name": "Proton Drive" },
                 { "id": "immich", "name": "Immich" },
                 { "id": "nextcloud_memories", "name": "Nextcloud Memories" },
-                { "id": "zeitkapsl", "name": "zeitkapsl" }
+                { "id": "zeitkapsl", "name": "zeitkapsl" },
+                { "id": "filen", "name": "Filen" },
+                { "id": "photoprism", "name": "PhotoPrism" }
             ]
         },
         {
@@ -137,7 +140,8 @@
                 { "id": "filen", "name": "Filen" },
                 { "id": "fileverse", "name": "Fileverse" },
                 { "id": "jottacloud", "name": "Jottacloud" },
-                { "id": "cryptomator", "name": "Cryptomator" }
+                { "id": "cryptomator", "name": "Cryptomator" },
+                { "id": "syncthing", "name": "Syncthing" }
             ]
         },
         {
@@ -243,7 +247,8 @@
                 { "id": "ollama", "name": "Ollama" },
                 { "id": "lumo", "name": "Lumo" },
                 { "id": "ppq", "name": "PayPerQ" },
-                { "id": "routstr", "name": "Routstr" }
+                { "id": "routstr", "name": "Routstr" },
+                { "id": "kagi_assistant", "name": "Kagi Assistant" }
             ]
         },
         {
@@ -272,6 +277,7 @@
             "private_alternatives": [
                 { "id": "open_street_map", "name": "OpenStreetMap" },
                 { "id": "organic_maps", "name": "Organic Maps" },
+                { "id": "kagi", "name": "Kagi Maps" },
                 { "id": "magic_earth", "name": "Magic Earth" },
                 { "id": "osmand", "name": "OsmAnd" }
             ]
@@ -280,9 +286,18 @@
             "name": "Translator",
             "order": 16,
             "mainstream_apps": [
-                { "id": "google_translate", "name": "Google Translate" }
+                { "id": "google_translate", "name": "Google Translate" },
+                { "id": "apple_translate", "name": "Apple Translate" },
+                { "id": "deepl", "name": "DeepL" }
             ],
-            "private_alternatives": [{ "id": "deepl", "name": "DeepL" }]
+            "private_alternatives": [
+                { "id": "libretranslate", "name": "LibreTranslate" },
+                { "id": "translatelocally", "name": "TranslateLocally" },
+                { "id": "apertium", "name": "Apertium" },
+                { "id": "mozilla_translate", "name": "Mozilla Translate" },
+                { "id": "kagi_translate", "name": "Kagi Translate" }
+    
+            ]
         },
         {
             "name": "Community",
@@ -305,7 +320,8 @@
                 { "id": "controld", "name": "ControlD DNS" },
                 { "id": "nextdns", "name": "NextDNS" },
                 { "id": "adguard", "name": "AdGuard DNS" },
-                { "id": "quad9", "name": "Quad9 DNS" }
+                { "id": "quad9", "name": "Quad9 DNS" },
+                { "id": "mullvad_dns", "name": "Mullvad DNS" }
             ]
         },
         {
@@ -320,7 +336,8 @@
                 { "id": "linux_mint", "name": "Linux Mint" },
                 { "id": "qubes_os", "name": "Qubes OS" },
                 { "id": "fedora", "name": "Fedora" },
-                { "id": "ubuntu", "name": "Ubuntu" }
+                { "id": "ubuntu", "name": "Ubuntu" },
+                { "id": "nixos", "name": "NixOS" }
             ]
         },
         {
