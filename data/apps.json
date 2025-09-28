@@ -340,6 +340,7 @@
                 { "id": "qubes_os", "name": "Qubes OS" },
                 { "id": "fedora", "name": "Fedora" },
                 { "id": "ubuntu", "name": "Ubuntu" },
+                { "id": "openmandriva", "name": "OpenMandriva" },
                 { "id": "nixos", "name": "NixOS" }
             ]
         },
