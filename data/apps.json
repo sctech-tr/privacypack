@@ -16,6 +16,7 @@
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
                 { "id": "migadu", "name": "Migadu" },
+		            { "id": "startmail", "name": "StartMail" },
                 { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
