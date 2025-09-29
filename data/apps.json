@@ -75,7 +75,7 @@
                 { "id": "orion", "name": "Orion" },
                 { "id": "waterfox", "name": "Waterfox" },
                 { "id": "ironfox", "name": "IronFox" },
-                { "id": "duckduckgo_browser", "name": "DuckDuckGo Browser" }
+                { "id": "duckduckgo", "name": "DuckDuckGo Browser" }
             ]
         },
         {
@@ -223,7 +223,7 @@
                 { "id": "portmaster_spn", "name": "Portmaster SPN" },
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
-                { "id": "duckduckgo_vpn", "name": "DuckDuckGo VPN" }
+                { "id": "duckduckgo", "name": "DuckDuckGo VPN" }
             ]
         },
         {
