@@ -367,6 +367,7 @@
 				{ "id": "hbo_max", "name": "HBO Max" }
 				{ "id": "prime_video", "name": "Prime Video" }
 				{ "id": "paramount_plus", "name": "Paramount+" }
+				{ "id": "disney_plus", "name": "Disney+" }
             ],
             "private_alternatives": [
                 { "id": "jellyfin", "name": "Jellyfin" }
