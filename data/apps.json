@@ -162,7 +162,8 @@
                 { "id": "1password", "name": "1Password" },
                 { "id": "proton_pass", "name": "Proton Pass" },
                 { "id": "keepass", "name": "KeePass" },
-                { "id": "aliasvault", "name": "AliasVault" }
+                { "id": "aliasvault", "name": "AliasVault" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
@@ -179,7 +180,9 @@
                 { "id": "aegis_auth", "name": "Aegis Auth" },
                 { "id": "proton_auth", "name": "Proton Auth" },
                 { "id": "bitwarden_auth", "name": "Bitwarden Auth" },
-                { "id": "yubico_auth", "name": "Yubico Authenticator" }
+                { "id": "yubico_auth", "name": "Yubico Authenticator" },
+                { "id": "1password", "name": "1Password" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
