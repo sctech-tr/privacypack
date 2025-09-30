@@ -230,7 +230,8 @@
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
                 { "id": "duckduckgo", "name": "DuckDuckGo VPN" },
-                { "id": "nymvpn", "name": "NymVPN" }
+                { "id": "nymvpn", "name": "NymVPN" },
+				        { "id": "tor_vpn", "name": "Tor VPN" }
             ]
         },
         {
