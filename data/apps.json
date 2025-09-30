@@ -15,7 +15,9 @@
                 { "id": "forwardemail_net", "name": "Forward Email" },
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
-                { "id": "migadu", "name": "Migadu" }
+                { "id": "migadu", "name": "Migadu" },
+		        { "id": "startmail", "name": "StartMail" },
+                { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
         {
@@ -32,7 +34,9 @@
                 { "id": "proton_drive", "name": "Proton Drive" },
                 { "id": "immich", "name": "Immich" },
                 { "id": "nextcloud_memories", "name": "Nextcloud Memories" },
-                { "id": "zeitkapsl", "name": "zeitkapsl" }
+                { "id": "zeitkapsl", "name": "zeitkapsl" },
+                { "id": "filen", "name": "Filen" },
+                { "id": "photoprism", "name": "PhotoPrism" }
             ]
         },
         {
@@ -74,7 +78,8 @@
                 { "id": "mullvad_browser", "name": "Mullvad Browser" },
                 { "id": "orion", "name": "Orion" },
                 { "id": "waterfox", "name": "Waterfox" },
-                { "id": "ironfox", "name": "IronFox" }
+                { "id": "ironfox", "name": "IronFox" },
+                { "id": "duckduckgo", "name": "DuckDuckGo Browser" }
             ]
         },
         {
@@ -136,7 +141,9 @@
                 { "id": "filen", "name": "Filen" },
                 { "id": "fileverse", "name": "Fileverse" },
                 { "id": "jottacloud", "name": "Jottacloud" },
-                { "id": "cryptomator", "name": "Cryptomator" }
+                { "id": "cryptomator", "name": "Cryptomator" },
+                { "id": "pcloud", "name": "pCloud" },
+                { "id": "syncthing", "name": "Syncthing" }
             ]
         },
         {
@@ -155,7 +162,9 @@
                 { "id": "1password", "name": "1Password" },
                 { "id": "proton_pass", "name": "Proton Pass" },
                 { "id": "keepass", "name": "KeePass" },
-                { "id": "keevault", "name": "Kee Vault" }
+                { "id": "keevault", "name": "Kee Vault" },
+                { "id": "aliasvault", "name": "AliasVault" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
@@ -172,7 +181,9 @@
                 { "id": "aegis_auth", "name": "Aegis Auth" },
                 { "id": "proton_auth", "name": "Proton Auth" },
                 { "id": "bitwarden_auth", "name": "Bitwarden Auth" },
-                { "id": "yubico_auth", "name": "Yubico Authenticator" }
+                { "id": "yubico_auth", "name": "Yubico Authenticator" },
+                { "id": "1password", "name": "1Password" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
@@ -222,7 +233,10 @@
                 { "id": "windscribe", "name": "Windscribe VPN" },
                 { "id": "portmaster_spn", "name": "Portmaster SPN" },
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
-                { "id": "urnetwork", "name": "URnetwork dVPN" }
+                { "id": "urnetwork", "name": "URnetwork dVPN" },
+                { "id": "duckduckgo", "name": "DuckDuckGo VPN" },
+                { "id": "nymvpn", "name": "NymVPN" },
+				{ "id": "tor_vpn", "name": "Tor VPN" }
             ]
         },
         {
@@ -243,7 +257,9 @@
                 { "id": "ollama", "name": "Ollama" },
                 { "id": "lumo", "name": "Lumo" },
                 { "id": "ppq", "name": "PayPerQ" },
-                { "id": "routstr", "name": "Routstr" }
+                { "id": "routstr", "name": "Routstr" },
+                { "id": "duckai", "name": "Duck.ai" },
+                { "id": "kagi_assistant", "name": "Kagi Assistant" }
             ]
         },
         {
@@ -253,7 +269,8 @@
                 { "id": "google_home", "name": "Google Home" },
                 { "id": "apple_homekit", "name": "Apple HomeKit" },
                 { "id": "amazon_alexa", "name": "Amazon Alexa" },
-                { "id": "samsung_smartthings", "name": "Samsung SmartThings" }
+                { "id": "samsung_smartthings", "name": "Samsung SmartThings" },
+                { "id": "philips_hue", "name": "Philips Hue" }
             ],
             "private_alternatives": [
                 { "id": "home_assistant", "name": "Home Assistant" },
@@ -272,6 +289,7 @@
             "private_alternatives": [
                 { "id": "open_street_map", "name": "OpenStreetMap" },
                 { "id": "organic_maps", "name": "Organic Maps" },
+                { "id": "kagi", "name": "Kagi Maps" },
                 { "id": "magic_earth", "name": "Magic Earth" },
                 { "id": "osmand", "name": "OsmAnd" }
             ]
@@ -280,9 +298,18 @@
             "name": "Translator",
             "order": 16,
             "mainstream_apps": [
-                { "id": "google_translate", "name": "Google Translate" }
+                { "id": "google_translate", "name": "Google Translate" },
+                { "id": "apple_translate", "name": "Apple Translate" },
+                { "id": "deepl", "name": "DeepL" }
             ],
-            "private_alternatives": [{ "id": "deepl", "name": "DeepL" }]
+            "private_alternatives": [
+                { "id": "libretranslate", "name": "LibreTranslate" },
+                { "id": "translatelocally", "name": "TranslateLocally" },
+                { "id": "apertium", "name": "Apertium" },
+                { "id": "mozilla_translate", "name": "Mozilla Translate" },
+                { "id": "kagi_translate", "name": "Kagi Translate" }
+    
+            ]
         },
         {
             "name": "Community",
@@ -305,7 +332,8 @@
                 { "id": "controld", "name": "ControlD DNS" },
                 { "id": "nextdns", "name": "NextDNS" },
                 { "id": "adguard", "name": "AdGuard DNS" },
-                { "id": "quad9", "name": "Quad9 DNS" }
+                { "id": "quad9", "name": "Quad9 DNS" },
+                { "id": "mullvad_dns", "name": "Mullvad DNS" }
             ]
         },
         {
@@ -320,7 +348,12 @@
                 { "id": "linux_mint", "name": "Linux Mint" },
                 { "id": "qubes_os", "name": "Qubes OS" },
                 { "id": "fedora", "name": "Fedora" },
-                { "id": "ubuntu", "name": "Ubuntu" }
+                { "id": "ubuntu", "name": "Ubuntu" },
+                { "id": "debian", "name": "Debian" },
+                { "id": "pop_os", "name": "Pop!_OS" },
+                { "id": "kali_linux", "name": "Kali Linux"},
+                { "id": "openmandriva", "name": "OpenMandriva" },
+                { "id": "nixos", "name": "NixOS" }
             ]
         },
         {
@@ -334,6 +367,17 @@
                 { "id": "graphene_os", "name": "GrapheneOS" },
                 { "id": "calyx_os", "name": "CalyxOS" },
                 { "id": "lineage_os", "name": "LineageOS" }
+            ]
+        },
+                {
+            "name": "Entertainment",
+            "order": 21,
+            "mainstream_apps": [
+                { "id": "plex", "name": "Plex" },
+                {"id": "netflix", "name": "Netflix"}
+            ],
+            "private_alternatives": [
+                { "id": "jellyfin", "name": "Jellyfin" }
             ]
         }
     ]
