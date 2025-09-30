@@ -16,7 +16,7 @@
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
                 { "id": "migadu", "name": "Migadu" },
-		            { "id": "startmail", "name": "StartMail" },
+		        { "id": "startmail", "name": "StartMail" },
                 { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
@@ -231,7 +231,7 @@
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
                 { "id": "duckduckgo", "name": "DuckDuckGo VPN" },
                 { "id": "nymvpn", "name": "NymVPN" },
-				        { "id": "tor_vpn", "name": "Tor VPN" }
+				{ "id": "tor_vpn", "name": "Tor VPN" }
             ]
         },
         {
