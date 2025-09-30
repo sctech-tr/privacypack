@@ -16,7 +16,7 @@
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
                 { "id": "migadu", "name": "Migadu" },
-		            { "id": "startmail", "name": "StartMail" },
+		        { "id": "startmail", "name": "StartMail" },
                 { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
@@ -78,7 +78,8 @@
                 { "id": "mullvad_browser", "name": "Mullvad Browser" },
                 { "id": "orion", "name": "Orion" },
                 { "id": "waterfox", "name": "Waterfox" },
-                { "id": "ironfox", "name": "IronFox" }
+                { "id": "ironfox", "name": "IronFox" },
+                { "id": "duckduckgo", "name": "DuckDuckGo Browser" }
             ]
         },
         {
@@ -228,6 +229,7 @@
                 { "id": "portmaster_spn", "name": "Portmaster SPN" },
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
+                { "id": "duckduckgo", "name": "DuckDuckGo VPN" },
                 { "id": "nymvpn", "name": "NymVPN" },
 				{ "id": "tor_vpn", "name": "Tor VPN" }
             ]
@@ -251,6 +253,7 @@
                 { "id": "lumo", "name": "Lumo" },
                 { "id": "ppq", "name": "PayPerQ" },
                 { "id": "routstr", "name": "Routstr" },
+                { "id": "duckai", "name": "Duck.ai" },
                 { "id": "kagi_assistant", "name": "Kagi Assistant" }
             ]
         },
