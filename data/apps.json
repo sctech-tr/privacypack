@@ -228,7 +228,8 @@
                 { "id": "portmaster_spn", "name": "Portmaster SPN" },
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
-                { "id": "nymvpn", "name": "NymVPN" }
+                { "id": "nymvpn", "name": "NymVPN" },
+				{ "id": "tor_vpn", "name": "Tor VPN" }
             ]
         },
         {
