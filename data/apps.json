@@ -16,7 +16,7 @@
                 { "id": "tuta_mail", "name": "Tuta Mail" },
                 { "id": "posteo", "name": "Posteo" },
                 { "id": "migadu", "name": "Migadu" },
-		            { "id": "startmail", "name": "StartMail" },
+		        { "id": "startmail", "name": "StartMail" },
                 { "id": "disroot_webmail", "name": "Disroot webmail" }
             ]
         },
@@ -78,7 +78,8 @@
                 { "id": "mullvad_browser", "name": "Mullvad Browser" },
                 { "id": "orion", "name": "Orion" },
                 { "id": "waterfox", "name": "Waterfox" },
-                { "id": "ironfox", "name": "IronFox" }
+                { "id": "ironfox", "name": "IronFox" },
+                { "id": "duckduckgo", "name": "DuckDuckGo Browser" }
             ]
         },
         {
@@ -141,6 +142,7 @@
                 { "id": "fileverse", "name": "Fileverse" },
                 { "id": "jottacloud", "name": "Jottacloud" },
                 { "id": "cryptomator", "name": "Cryptomator" },
+                { "id": "pcloud", "name": "pCloud" },
                 { "id": "syncthing", "name": "Syncthing" }
             ]
         },
@@ -160,7 +162,9 @@
                 { "id": "1password", "name": "1Password" },
                 { "id": "proton_pass", "name": "Proton Pass" },
                 { "id": "keepass", "name": "KeePass" },
-                { "id": "aliasvault", "name": "AliasVault" }
+                { "id": "keevault", "name": "Kee Vault" },
+                { "id": "aliasvault", "name": "AliasVault" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
@@ -177,7 +181,9 @@
                 { "id": "aegis_auth", "name": "Aegis Auth" },
                 { "id": "proton_auth", "name": "Proton Auth" },
                 { "id": "bitwarden_auth", "name": "Bitwarden Auth" },
-                { "id": "yubico_auth", "name": "Yubico Authenticator" }
+                { "id": "yubico_auth", "name": "Yubico Authenticator" },
+                { "id": "1password", "name": "1Password" },
+                { "id": "vaultwarden", "name": "Vaultwarden" }
             ]
         },
         {
@@ -228,7 +234,9 @@
                 { "id": "portmaster_spn", "name": "Portmaster SPN" },
                 { "id": "mozilla_vpn", "name": "Mozilla VPN" },
                 { "id": "urnetwork", "name": "URnetwork dVPN" },
-                { "id": "nymvpn", "name": "NymVPN" }
+                { "id": "duckduckgo", "name": "DuckDuckGo VPN" },
+                { "id": "nymvpn", "name": "NymVPN" },
+				{ "id": "tor_vpn", "name": "Tor VPN" }
             ]
         },
         {
@@ -250,6 +258,7 @@
                 { "id": "lumo", "name": "Lumo" },
                 { "id": "ppq", "name": "PayPerQ" },
                 { "id": "routstr", "name": "Routstr" },
+                { "id": "duckai", "name": "Duck.ai" },
                 { "id": "kagi_assistant", "name": "Kagi Assistant" }
             ]
         },
@@ -340,6 +349,9 @@
                 { "id": "qubes_os", "name": "Qubes OS" },
                 { "id": "fedora", "name": "Fedora" },
                 { "id": "ubuntu", "name": "Ubuntu" },
+                { "id": "debian", "name": "Debian" },
+                { "id": "pop_os", "name": "Pop!_OS" },
+                { "id": "kali_linux", "name": "Kali Linux"},
                 { "id": "openmandriva", "name": "OpenMandriva" },
                 { "id": "nixos", "name": "NixOS" }
             ]
