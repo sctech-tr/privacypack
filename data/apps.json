@@ -354,7 +354,8 @@
                 { "id": "kali_linux", "name": "Kali Linux"},
                 { "id": "openmandriva", "name": "OpenMandriva" },
                 { "id": "nixos", "name": "NixOS" },
-                { "id": "tiger_os", "name": "Tiger OS" }
+                { "id": "tiger_os", "name": "Tiger OS" },
+				        { "id": "opensuse", "name": "OpenSUSE" }
             ]
         },
         {
