@@ -287,7 +287,6 @@
                 { "id": "apple_maps", "name": "Apple Maps" }
             ],
             "private_alternatives": [
-                { "id": "open_street_map", "name": "OpenStreetMap" },
                 { "id": "organic_maps", "name": "Organic Maps" },
                 { "id": "kagi", "name": "Kagi Maps" },
                 { "id": "magic_earth", "name": "Magic Earth" },
